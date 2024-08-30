@@ -1,0 +1,18 @@
+[
+    {
+      "Name": "Laptop",
+      "Price": 899.99,
+      "Amount": 2
+    },
+    {
+      "Name": "Smartphone",
+      "Price": 499.99,
+      "Amount": 5
+    },
+    {
+      "Name": "Headphones",
+      "Price": 79.99,
+      "Amount": 10
+    }
+  ]
+  
